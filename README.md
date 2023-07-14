@@ -25,5 +25,6 @@ The dataset was gotten from [Maven Analytics](https://mavenanalytics.io/challeng
 It contains 7 related tables.
 
 ## Analysis and Visualization
+![Alt text](pexels-pixabay-262353.jpg)
 
   
