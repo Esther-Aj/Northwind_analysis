@@ -15,7 +15,7 @@ Northwind Traders are a global import and export company that specializes in sup
 ## Problem Statement
 The Executive team needs a top-level KPI dashboard to allow them to quickly understand the company's performance.
 
-## Skills Involved
+## Skills Demonstrated
 - **Excel** for data cleaning
 - **Tableau** for the dashboard design
 
