@@ -6,7 +6,7 @@ This is a Maven Northwind Challenge I participated in to portray my skills in da
 Photo from [Pexels](https://www.pexels.com/photo/business-cargo-cargo-container-city-262353/)
 
 ## Introduction
-Northwind Traders is a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world. As part of the challenge, we've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
+Northwind Traders are a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world. As part of the challenge, we've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
 - Sales trends
 - Product performance
 - Key customers
