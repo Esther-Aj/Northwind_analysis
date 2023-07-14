@@ -1,5 +1,5 @@
 # Northwind_analysis
-This is a Maven Northwind Challenge I participated in to portray my skills in data visualization by building a top-level KPI dashboard for the executive team.
+This is a Maven Northwind Challenge I participated in to demonstrate my data visualization skills by building a top-level KPI dashboard for the executive team.
 
 ![Alt text](pexels-pixabay-262353.jpg)
 
