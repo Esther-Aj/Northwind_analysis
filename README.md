@@ -13,6 +13,7 @@ Northwind Traders are a global import and export company that specializes in sup
 - Shipping costs
 
 ## Problem Statement
+The Executive team needs a top-level KPI dashboard to allow them to quickly understand the company's performance.
 
 ## Skills Involved
 - **Excel** for data cleaning
@@ -21,5 +22,8 @@ Northwind Traders are a global import and export company that specializes in sup
 
 ## Data Sourcing
 The dataset was gotten from [Maven Analytics](https://mavenanalytics.io/challenges/maven-northwind-challenge/24).
-It contains 7 tables of which are related.
+It contains 7 related tables.
+
+## Analysis and Visualization
+
   
