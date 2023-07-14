@@ -1,5 +1,25 @@
 # Northwind_analysis
+This is a Maven Northwind Challenge I participated in to portray my skills in data visualization by building a top-level KPI dashboard for the executive team.
 
-![Alt text]((https://www.pexels.com/photo/business-cargo-cargo-container-city-262353/))
+![Alt text](pexels-pixabay-262353.jpg)
 
-photo from [pixaby](https://www.pexels.com/photo/business-cargo-cargo-container-city-262353/)
+Photo from [Pexels](https://www.pexels.com/photo/business-cargo-cargo-container-city-262353/)
+
+## Introduction
+Northwind Traders is a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world. As part of the challenge, we've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
+- Sales trends
+- Product performance
+- Key customers
+- Shipping costs
+
+## Problem Statement
+
+## Skills Involved
+- **Excel** for data cleaning
+- **SQL** for exporatory data analysis
+- **Tableau** for the dashboard design
+
+## Data Sourcing
+The dataset was gotten from [Maven Analytics](https://mavenanalytics.io/challenges/maven-northwind-challenge/24).
+It contains 7 tables of which are related.
+  
