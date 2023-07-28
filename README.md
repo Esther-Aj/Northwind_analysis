@@ -28,7 +28,7 @@ It contains 7 related tables.
 
 Here's the link to the [interactive dashboard](https://public.tableau.com/app/profile/esther.ajuzieogu/viz/NorthwindTraders_16861440753380/Dashboard1)
 
-From the dashboard, here are some observations:
+From the analysis, here are some observations:
 - Northwind traders generated $1.27 million in sales between July 2013 and May 2015; with $1.2 million in profits excluding shipping costs.
 - The number of clients increased by 12.73% in 2014, adding 19 new clients. Sales reached their peak in May 2015 with a total of $123,799 despite a decline in the overall number of clients. 
 - The top category was beverages, while Côte de Blaye generated the most income and Camembert Pierrot sold the most. 
